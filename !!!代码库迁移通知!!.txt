@@ -1,0 +1,8 @@
+重要通知
+
+SOUI代码库已经于2017.6迁移到GIT。code.taobao 已经不再更新。
+要获取新版本请移步git
+github: https://github.com/soui2/soui
+gitee: https://gitee.com/setoutsoft/soui
+
+启程软件 2017.11.23
